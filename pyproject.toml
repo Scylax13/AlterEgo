@@ -1,0 +1,19 @@
+[project]
+name = "alterego"
+version = "0.1.0"
+description = "AI chatbot representing Abhinav Pratap Singh"
+requires-python = ">=3.8"
+dependencies = [
+    "python-dotenv",
+    "openai",
+    "requests",
+    "pypdf",
+    "gradio"
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.uv]
+dev-dependencies = [] 

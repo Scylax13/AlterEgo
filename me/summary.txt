@@ -1,0 +1,5 @@
+My name is Abhinav Pratap Singh. I am a quick learner with very good problem solving as well as quant mathematical ability.
+I do enjoy video games and traveling to different places.
+
+I have also done some side projects related to Machine learning like second hand Car price prediction model which was based on Linear Regression technique.
+I have done an Agentic AI course on Udemy by Ed donner which specialized in building Agents with the help of Agentic frameworks such as LangGraph, CrewAI and Autogen.
